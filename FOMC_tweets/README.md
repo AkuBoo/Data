@@ -1,4 +1,4 @@
-Note that I used @BloombergRadio's tweet on 01/08/2012 as @federalreserve had not tweeted then. @sffed's tweet was used on 24/10/2012 for the same reason.
+Note that I used @BloombergRadio's tweet on 01/08/2012 as @federalreserve had not tweeted then. @sffed's tweet was used on 24/10/2012 for the same reason. All of the upload times are in ET.
 
 LET ME KNOW IF THERE ARE ERRORS
 
