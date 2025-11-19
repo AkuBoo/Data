@@ -1,3 +1,7 @@
+Note that I used @BloombergRadio's tweet on 01/08/2012 as @federalreserve had not tweeted then. @sffed's tweet was used on 24/10/2012 for the same reason.
+
+LET ME KNOW IF THERE ARE ERRORS
+
 This dataset may be used with other datasets like Lucca and Moench (2014, available at : https://onlinelibrary.wiley.com/doi/10.1111/jofi.12196) to get release minutes from 1994 to 2022 IFF. you find data for release minutes on 02/11/2011, 13/12/2011, 25/01/2012 and 13/03/2012 (all scheduled to be uploaded or said to be uploaded by the FOMC at 14:30, 14:15, 14:20 and 14:15 respectively), however the FOMC started posting FOMC statements on twitter on 25/04/2012 while Lucca and Moench end their dataset on 15/03/2011. From Bloomberg, the following 4 lines could be added to such a dataset : 
 
 ```
